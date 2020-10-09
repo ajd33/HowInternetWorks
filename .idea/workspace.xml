@@ -19,8 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e8d8f40b-01e2-402c-a5ac-3c34e12a87f1" name="Default Changelist" comment="Feature: added bg image gradient">
+    <list default="true" id="e8d8f40b-01e2-402c-a5ac-3c34e12a87f1" name="Default Changelist" comment="Task: added image files">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ipapr.html" beforeDir="false" afterPath="$PROJECT_DIR$/ipapr.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +38,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="bgimagegradient" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -112,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602253559010</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Task: added image files">
+      <created>1602255793178</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1602255793178</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,7 +145,8 @@
     <MESSAGE value="Task: Added images folder" />
     <MESSAGE value="Feature: updated about page" />
     <MESSAGE value="Feature: added bg image gradient" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feature: added bg image gradient" />
+    <MESSAGE value="Task: added image files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task: added image files" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2661" y="163" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602180076693">
@@ -148,10 +157,10 @@
       <screen x="1982" y="-179" width="1858" height="1080" />
     </state>
     <state x="2641" y="108" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.0.1213.720/1982.-179.1858.1080@1982.-179.1858.1080" timestamp="1602186890587" />
-    <state x="2503" y="94" key="Vcs.Push.Dialog.v2" timestamp="1602253561374">
+    <state x="2503" y="94" key="Vcs.Push.Dialog.v2" timestamp="1602255795970">
       <screen x="1982" y="-179" width="1858" height="1080" />
     </state>
-    <state x="2503" y="94" key="Vcs.Push.Dialog.v2/63.0.1217.720/1982.-179.1858.1080@1982.-179.1858.1080" timestamp="1602253561374" />
+    <state x="2503" y="94" key="Vcs.Push.Dialog.v2/63.0.1217.720/1982.-179.1858.1080@1982.-179.1858.1080" timestamp="1602255795970" />
     <state x="2503" y="94" key="Vcs.Push.Dialog.v2/67.0.1213.720/1982.-179.1858.1080@1982.-179.1858.1080" timestamp="1602186513357" />
     <state x="2728" y="275" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602253622869">
       <screen x="1982" y="-179" width="1858" height="1080" />
