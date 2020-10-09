@@ -1,0 +1,73 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"BranchesTreeState\">\r\n    <expand>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"LOCAL_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"GROUP_NODE:origin\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n    </expand>\r\n    <select />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"e8d8f40b-01e2-402c-a5ac-3c34e12a87f1\" name=\"Default Changelist\" comment=\"Task: Added color matched header background\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"HTML File\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"bgcolor\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"1ibcsambSUq4K5LgDWiXbsKFnvB\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"DefaultHtmlFileTemplate\" value=\"HTML File\" />\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\r\n    <property name=\"node.js.detected.package.eslint\" value=\"true\" />\r\n    <property name=\"node.js.detected.package.tslint\" value=\"true\" />\r\n    <property name=\"node.js.path.for.package.eslint\" value=\"project\" />\r\n    <property name=\"node.js.path.for.package.tslint\" value=\"project\" />\r\n    <property name=\"node.js.selected.package.eslint\" value=\"(autodetect)\" />\r\n    <property name=\"node.js.selected.package.tslint\" value=\"(autodetect)\" />\r\n    <property name=\"vue.rearranger.settings.migration\" value=\"true\" />\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"e8d8f40b-01e2-402c-a5ac-3c34e12a87f1\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1602179939384</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1602179939384</updated>\r\n      <workItem from=\"1602179940433\" duration=\"1857000\" />\r\n      <workItem from=\"1602181841591\" duration=\"5839000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Task: initial file creation using old website template\">\r\n      <created>1602182699513</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1602182699513</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Task: Set up intial page for each\">\r\n      <created>1602186510494</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1602186510494</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"Task: Added color matched header background\">\r\n      <created>1602187952894</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1602187952894</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"4\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n    <option name=\"oldMeFiltersMigrated\" value=\"true\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"Task: initial file creation using old website template\" />\r\n    <MESSAGE value=\"Task: Set up intial page for each\" />\r\n    <MESSAGE value=\"Task: Added color matched header background\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Task: Added color matched header background\" />\r\n  </component>\r\n  <component name=\"WindowStateProjectService\">\r\n    <state x=\"2661\" y=\"163\" key=\"#com.intellij.fileTypes.FileTypeChooser\" timestamp=\"1602180076693\">\r\n      <screen x=\"1982\" y=\"-179\" width=\"1858\" height=\"1080\" />\r\n    </state>\r\n    <state x=\"2661\" y=\"163\" key=\"#com.intellij.fileTypes.FileTypeChooser/62.0.1218.720/1982.-179.1858.1080@1982.-179.1858.1080\" timestamp=\"1602180076693\" />\r\n    <state x=\"2641\" y=\"108\" key=\"#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog\" timestamp=\"1602186890587\">\r\n      <screen x=\"1982\" y=\"-179\" width=\"1858\" height=\"1080\" />\r\n    </state>\r\n    <state x=\"2641\" y=\"108\" key=\"#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.0.1213.720/1982.-179.1858.1080@1982.-179.1858.1080\" timestamp=\"1602186890587\" />\r\n    <state x=\"2503\" y=\"94\" key=\"Vcs.Push.Dialog.v2\" timestamp=\"1602188085373\">\r\n      <screen x=\"1982\" y=\"-179\" width=\"1858\" height=\"1080\" />\r\n    </state>\r\n    <state x=\"2503\" y=\"94\" key=\"Vcs.Push.Dialog.v2/63.0.1217.720/1982.-179.1858.1080@1982.-179.1858.1080\" timestamp=\"1602188085373\" />\r\n    <state x=\"2503\" y=\"94\" key=\"Vcs.Push.Dialog.v2/67.0.1213.720/1982.-179.1858.1080@1982.-179.1858.1080\" timestamp=\"1602186513357\" />\r\n    <state x=\"2728\" y=\"275\" key=\"com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2\" timestamp=\"1602187987501\">\r\n      <screen x=\"1982\" y=\"-179\" width=\"1858\" height=\"1080\" />\r\n    </state>\r\n    <state x=\"2728\" y=\"275\" key=\"com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/63.0.1217.720/1982.-179.1858.1080@1982.-179.1858.1080\" timestamp=\"1602187987501\" />\r\n    <state x=\"2728\" y=\"275\" key=\"com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/67.0.1213.720/1982.-179.1858.1080@1982.-179.1858.1080\" timestamp=\"1602186544796\" />\r\n    <state x=\"2691\" y=\"74\" key=\"git4idea.branch.GitSmartOperationDialog\" timestamp=\"1602183259167\">\r\n      <screen x=\"1982\" y=\"-179\" width=\"1858\" height=\"1080\" />\r\n    </state>\r\n    <state x=\"2691\" y=\"74\" key=\"git4idea.branch.GitSmartOperationDialog/67.0.1213.720/1982.-179.1858.1080@1982.-179.1858.1080\" timestamp=\"1602183259167\" />\r\n    <state x=\"2574\" y=\"56\" width=\"672\" height=\"678\" key=\"search.everywhere.popup\" timestamp=\"1602186368899\">\r\n      <screen x=\"1982\" y=\"-179\" width=\"1858\" height=\"1080\" />\r\n    </state>\r\n    <state x=\"2574\" y=\"56\" width=\"672\" height=\"678\" key=\"search.everywhere.popup/67.0.1213.720/1982.-179.1858.1080@1982.-179.1858.1080\" timestamp=\"1602186368899\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision d2e8ef2d081cd44bd21e11ab81ef6cacf57a8cb5)
++++ .idea/workspace.xml	(date 1602189390883)
+@@ -19,7 +19,14 @@
+     <select />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="e8d8f40b-01e2-402c-a5ac-3c34e12a87f1" name="Default Changelist" comment="Task: Added color matched header background" />
++    <list default="true" id="e8d8f40b-01e2-402c-a5ac-3c34e12a87f1" name="Default Changelist" comment="Task: Added images folder">
++      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/dns.html" beforeDir="false" afterPath="$PROJECT_DIR$/dns.html" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/domainicann.html" beforeDir="false" afterPath="$PROJECT_DIR$/domainicann.html" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/httphttps.html" beforeDir="false" afterPath="$PROJECT_DIR$/httphttps.html" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/ipapr.html" beforeDir="false" afterPath="$PROJECT_DIR$/ipapr.html" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/w3chtmlcss.html" beforeDir="false" afterPath="$PROJECT_DIR$/w3chtmlcss.html" afterDir="false" />
++    </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -66,7 +73,7 @@
+       <option name="presentableId" value="Default" />
+       <updated>1602179939384</updated>
+       <workItem from="1602179940433" duration="1857000" />
+-      <workItem from="1602181841591" duration="5839000" />
++      <workItem from="1602181841591" duration="6196000" />
+     </task>
+     <task id="LOCAL-00001" summary="Task: initial file creation using old website template">
+       <created>1602182699513</created>
+@@ -89,7 +96,14 @@
+       <option name="project" value="LOCAL" />
+       <updated>1602187952894</updated>
+     </task>
+-    <option name="localTasksCounter" value="4" />
++    <task id="LOCAL-00004" summary="Task: Added images folder">
++      <created>1602188107877</created>
++      <option name="number" value="00004" />
++      <option name="presentableId" value="LOCAL-00004" />
++      <option name="project" value="LOCAL" />
++      <updated>1602188107877</updated>
++    </task>
++    <option name="localTasksCounter" value="5" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -111,7 +125,8 @@
+     <MESSAGE value="Task: initial file creation using old website template" />
+     <MESSAGE value="Task: Set up intial page for each" />
+     <MESSAGE value="Task: Added color matched header background" />
+-    <option name="LAST_COMMIT_MESSAGE" value="Task: Added color matched header background" />
++    <MESSAGE value="Task: Added images folder" />
++    <option name="LAST_COMMIT_MESSAGE" value="Task: Added images folder" />
+   </component>
+   <component name="WindowStateProjectService">
+     <state x="2661" y="163" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602180076693">
+@@ -122,10 +137,10 @@
+       <screen x="1982" y="-179" width="1858" height="1080" />
+     </state>
+     <state x="2641" y="108" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.0.1213.720/1982.-179.1858.1080@1982.-179.1858.1080" timestamp="1602186890587" />
+-    <state x="2503" y="94" key="Vcs.Push.Dialog.v2" timestamp="1602188085373">
++    <state x="2503" y="94" key="Vcs.Push.Dialog.v2" timestamp="1602188110415">
+       <screen x="1982" y="-179" width="1858" height="1080" />
+     </state>
+-    <state x="2503" y="94" key="Vcs.Push.Dialog.v2/63.0.1217.720/1982.-179.1858.1080@1982.-179.1858.1080" timestamp="1602188085373" />
++    <state x="2503" y="94" key="Vcs.Push.Dialog.v2/63.0.1217.720/1982.-179.1858.1080@1982.-179.1858.1080" timestamp="1602188110415" />
+     <state x="2503" y="94" key="Vcs.Push.Dialog.v2/67.0.1213.720/1982.-179.1858.1080@1982.-179.1858.1080" timestamp="1602186513357" />
+     <state x="2728" y="275" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602187987501">
+       <screen x="1982" y="-179" width="1858" height="1080" />
