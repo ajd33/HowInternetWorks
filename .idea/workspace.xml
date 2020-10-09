@@ -19,13 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e8d8f40b-01e2-402c-a5ac-3c34e12a87f1" name="Default Changelist" comment="Task: Added images folder">
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dns.html" beforeDir="false" afterPath="$PROJECT_DIR$/dns.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/domainicann.html" beforeDir="false" afterPath="$PROJECT_DIR$/domainicann.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/httphttps.html" beforeDir="false" afterPath="$PROJECT_DIR$/httphttps.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ipapr.html" beforeDir="false" afterPath="$PROJECT_DIR$/ipapr.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/w3chtmlcss.html" beforeDir="false" afterPath="$PROJECT_DIR$/w3chtmlcss.html" afterDir="false" />
+    <list default="true" id="e8d8f40b-01e2-402c-a5ac-3c34e12a87f1" name="Default Changelist" comment="Feature: updated about page">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +38,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="bgcolor" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -103,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602188107877</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Feature: updated about page">
+      <created>1602189444841</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1602189444841</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,7 +129,8 @@
     <MESSAGE value="Task: Set up intial page for each" />
     <MESSAGE value="Task: Added color matched header background" />
     <MESSAGE value="Task: Added images folder" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task: Added images folder" />
+    <MESSAGE value="Feature: updated about page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature: updated about page" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2661" y="163" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602180076693">
@@ -137,15 +141,15 @@
       <screen x="1982" y="-179" width="1858" height="1080" />
     </state>
     <state x="2641" y="108" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.0.1213.720/1982.-179.1858.1080@1982.-179.1858.1080" timestamp="1602186890587" />
-    <state x="2503" y="94" key="Vcs.Push.Dialog.v2" timestamp="1602188110415">
+    <state x="2503" y="94" key="Vcs.Push.Dialog.v2" timestamp="1602189447243">
       <screen x="1982" y="-179" width="1858" height="1080" />
     </state>
-    <state x="2503" y="94" key="Vcs.Push.Dialog.v2/63.0.1217.720/1982.-179.1858.1080@1982.-179.1858.1080" timestamp="1602188110415" />
+    <state x="2503" y="94" key="Vcs.Push.Dialog.v2/63.0.1217.720/1982.-179.1858.1080@1982.-179.1858.1080" timestamp="1602189447243" />
     <state x="2503" y="94" key="Vcs.Push.Dialog.v2/67.0.1213.720/1982.-179.1858.1080@1982.-179.1858.1080" timestamp="1602186513357" />
-    <state x="2728" y="275" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602187987501">
+    <state x="2728" y="275" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602189488678">
       <screen x="1982" y="-179" width="1858" height="1080" />
     </state>
-    <state x="2728" y="275" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/63.0.1217.720/1982.-179.1858.1080@1982.-179.1858.1080" timestamp="1602187987501" />
+    <state x="2728" y="275" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/63.0.1217.720/1982.-179.1858.1080@1982.-179.1858.1080" timestamp="1602189488678" />
     <state x="2728" y="275" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/67.0.1213.720/1982.-179.1858.1080@1982.-179.1858.1080" timestamp="1602186544796" />
     <state x="2691" y="74" key="git4idea.branch.GitSmartOperationDialog" timestamp="1602183259167">
       <screen x="1982" y="-179" width="1858" height="1080" />
