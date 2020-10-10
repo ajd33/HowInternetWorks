@@ -19,9 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e8d8f40b-01e2-402c-a5ac-3c34e12a87f1" name="Default Changelist" comment="Task: added image files">
+    <list default="true" id="e8d8f40b-01e2-402c-a5ac-3c34e12a87f1" name="Default Changelist" comment="Feature: added ipapr page content">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ipapr.html" beforeDir="false" afterPath="$PROJECT_DIR$/ipapr.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dns.html" beforeDir="false" afterPath="$PROJECT_DIR$/dns.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,10 +162,10 @@
     </state>
     <state x="2503" y="94" key="Vcs.Push.Dialog.v2/63.0.1217.720/1982.-179.1858.1080@1982.-179.1858.1080" timestamp="1602255795970" />
     <state x="2503" y="94" key="Vcs.Push.Dialog.v2/67.0.1213.720/1982.-179.1858.1080@1982.-179.1858.1080" timestamp="1602186513357" />
-    <state x="2728" y="275" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602253622869">
+    <state x="2728" y="275" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602263509354">
       <screen x="1982" y="-179" width="1858" height="1080" />
     </state>
-    <state x="2728" y="275" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/63.0.1217.720/1982.-179.1858.1080@1982.-179.1858.1080" timestamp="1602253622869" />
+    <state x="2728" y="275" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/63.0.1217.720/1982.-179.1858.1080@1982.-179.1858.1080" timestamp="1602263509354" />
     <state x="2728" y="275" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/67.0.1213.720/1982.-179.1858.1080@1982.-179.1858.1080" timestamp="1602186544796" />
     <state x="2691" y="74" key="git4idea.branch.GitSmartOperationDialog" timestamp="1602183259167">
       <screen x="1982" y="-179" width="1858" height="1080" />
