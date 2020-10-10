@@ -1,5 +1,8 @@
 # HowInternetWorks
 
+URL of Assignment: https://ajd33.github.io/HowInternetWorks/
+
+
 The objective of this assignment is to get you familiarized with how the Internet works. You need to work individually for this assignment. You need to create a website (like one in the History of the Internet assignment) and explain some of the following topics:
 
  
